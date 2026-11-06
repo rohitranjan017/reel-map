@@ -1,0 +1,22 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "reel-map",
+  "version": "0.1.0",
+  "description": "Turn an Instagram Reel into a Google Maps route inside ChatGPT Work, using your existing plan.",
+  "author": { "name": "Rohit" },
+  "license": "MIT",
+  "keywords": ["instagram", "travel", "maps"],
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "Reel Map",
+        "shortDescription": "From Instagram Reel to places on Google Maps",
+        "longDescription": "Download a public Reel, inspect its caption and video frames, identify real places, and return one Google Maps route. Runs with ChatGPT Work's tools; no separate LLM API key. A Google Maps shortlist is also available when sourced Google Place IDs are present.",
+        "developerName": "Rohit",
+        "category": "Productivity",
+        "defaultPrompt": ["/map https://www.instagram.com/reel/DbyySxJuluW/", "Map the places in this Instagram Reel."],
+        "brandColor": "#23614E"
+      }
+    }
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "title": "London places from the test Reel",
+  "source_url": "https://www.instagram.com/reel/DbyySxJuluW/",
+  "places": [
+    {
+      "name": "British Museum",
+      "address": "London, United Kingdom",
+      "evidence": "On-screen label around 2 seconds"
+    },
+    {
+      "name": "National Gallery",
+      "address": "London, United Kingdom",
+      "evidence": "On-screen label around 3 seconds"
+    },
+    {
+      "name": "Tower Bridge",
+      "address": "London, United Kingdom",
+      "evidence": "On-screen label around 5 seconds"
+    },
+    {
+      "name": "Natural History Museum",
+      "address": "London, United Kingdom",
+      "evidence": "On-screen label around 6 seconds"
+    },
+    {
+      "name": "Horse Guards Parade",
+      "address": "London, United Kingdom",
+      "evidence": "Changing of the Guard label around 8 seconds; Horse Guards Parade inferred from the scene, not explicitly named"
+    },
+    {
+      "name": "Camden Market",
+      "address": "London, United Kingdom",
+      "evidence": "On-screen label around 9 seconds"
+    },
+    {
+      "name": "Notting Hill",
+      "address": "London, United Kingdom",
+      "evidence": "On-screen label around 10 seconds"
+    },
+    {
+      "name": "Sky Garden",
+      "address": "London, United Kingdom",
+      "evidence": "On-screen label around 12 seconds"
+    },
+    {
+      "name": "The Garden at 120",
+      "address": "London, United Kingdom",
+      "evidence": "On-screen label around 13 seconds"
+    },
+    {
+      "name": "Soho",
+      "address": "London, United Kingdom",
+      "evidence": "On-screen label around 15 seconds"
+    }
+  ]
+}

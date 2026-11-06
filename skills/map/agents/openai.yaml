@@ -1,0 +1,4 @@
+interface:
+  display_name: "Map a Reel"
+  short_description: "Extract places from a Reel and open them in Google Maps"
+  default_prompt: "Map the places in this Instagram Reel and give me one Google Maps link."
