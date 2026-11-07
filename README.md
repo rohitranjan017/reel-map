@@ -1,5 +1,7 @@
 # Reel Map
 
+**For the stateless, same-page laptop web app, use [the local app setup](app/README.md).** It includes ChatGPT-plan sign-in and an API designed for future mobile clients. The plugin below remains a separate way to use Reel Map inside ChatGPT.
+
 A personal ChatGPT plugin: share an Instagram Reel in chat and get a Google Maps link. ChatGPT interprets the caption and video frames; bundled Python scripts handle downloading and link formatting. No separate LLM API account, API key, OAuth-token copying, or server is used.
 
 ## Install once
